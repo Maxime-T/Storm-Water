@@ -24,8 +24,6 @@ Real-time stormy ocean in the browser, simulated with the FFT method from Jerry 
 - **Choppy waves**: horizontal displacement sharpens the crests and flattens the troughs.
 - **Foam** where the surface folds onto itself (Jacobian of the displacement), building up and fading over time.
 - **Shading**: Fresnel reflection of the sky, sun highlights, fake subsurface scattering through the crests.
-- **Large ocean from small meshes**: a grid of chunks with coarser meshes in the distance, skirts to hide
-  the seams, and fog that fades the edge into the horizon.
 
 ## Controls
 
